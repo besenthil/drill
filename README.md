@@ -9,10 +9,10 @@ Please read INSTALL.md for setting up and running Apache Drill.
 ## More Information
 Please see the [Apache Drill Website](http://drill.apache.org/) or the [Apache Drill Documentation](http://drill.apache.org/docs/) for more information including:
 
- * Remote Execution Installation Instructions
- * Information about how to submit logical and distributed physical plans
- * More example queries and sample data
- * Find out ways to be involved or disuss Drill
+ - Remote Execution Installation Instructions
+ - Information about how to submit logical and distributed physical plans
+ - More example queries and sample data
+ - Find out ways to be involved or disuss Drill
 
 
 ## Join the community!
